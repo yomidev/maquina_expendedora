@@ -41,7 +41,7 @@ def menu_admin(maquina):
 def menu(maquina):
     while True:
         print("\n" + "="*45)
-        print("MAQUINA EXPENDEDORA")
+        print("MAQUINA EXPENDEDORA 1")
         print("\n" + "="*45)
         print("1. Ver productos")
         print("2. Comprar productos")
